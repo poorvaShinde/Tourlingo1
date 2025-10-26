@@ -1,0 +1,11 @@
+flask==3.0.0
+flask-cors==4.0.0
+pytesseract==0.3.10
+pillow==10.1.0
+spacy==3.7.2
+transformers==4.35.0
+torch==2.1.0
+sentencepiece==0.1.99
+requests==2.31.0
+python-dotenv==1.0.0
+opencv-python==4.8.1.78
