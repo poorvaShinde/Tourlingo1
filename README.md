@@ -21,13 +21,3 @@
 - **Frontend**: Vanilla JavaScript, HTML5, CSS3
 - **OCR**: Tesseract (for future image text extraction)
 
-## Prerequisites
-
-- **Python 3.11.9** (recommended) or Python 3.10.x
-- **Tesseract OCR** installed on your system
-- **Google Maps API Key**
-- **Windows 10/11** (or adapt commands for macOS/Linux)
-- **Visual Studio Code** (recommended)
-- **Internet connection** (for downloading models on first run)
-
-
