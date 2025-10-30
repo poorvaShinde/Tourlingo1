@@ -21,3 +21,23 @@
 - **Frontend**: Vanilla JavaScript, HTML5, CSS3
 - **OCR**: Tesseract (for future image text extraction)
 
+## Project Structure
+```
+tourlingo/
+├── app/
+│ ├── main.py
+│ ├── init.py
+│ ├── templates/
+│ │ └── index.html
+│ ├── static/
+│ └── utils/
+│ ├── init.py
+│ ├── translator.py
+│ ├── ner_extractor.py
+│ └── maps_helper.py
+├── data/
+├── venv/
+├── .env
+├── requirements.txt
+└── README.md
+```
